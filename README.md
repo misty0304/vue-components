@@ -14,7 +14,7 @@
 
 ```javascript
 import HUI from '../index.js'
-Vue.use(MUI)
+Vue.use(HUI)
 ```
 
 即可在其他页面中使用
